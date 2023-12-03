@@ -5,4 +5,5 @@ on how long the delay on your train was. we eventually converted this idea into 
 demo is saved in this repository, the presentation however, remains lost in the chambers of the old imacs that i made them on. If you want
 to chack out the demo itself, then i suggest you to pay a visit to delaypaymobile.vercel.app NOTE: the demo is completely in the dutch language,
 and is designed for mobile phones.
+( please note this is an old project and i didnt really know js )
 
